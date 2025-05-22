@@ -31,4 +31,8 @@
 
 ### 	:robot: About Me :
 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frek666&theme=dark&background=000000)](https://git.io/streak-stats)
