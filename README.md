@@ -12,4 +12,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-https://github-readme-streak-stats.herokuapp.com/frek666r=your-github-username
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/frek666=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
