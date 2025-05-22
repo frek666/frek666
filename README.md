@@ -7,14 +7,16 @@
     <img src="https://img.shields.io/badge/t.me-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
 <img src="https://komarev.com/ghpvc/?username=frek666&style=flat-square&color=blue" alt=""/>
+
 <h1>
   Hello World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFzZHIzb2htaHp0Zno2YWV2bnAyampjN2kycHU5aTJtd3N6ZHpjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hYgd26ol1ARubsF5j4/giphy.gif" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtkOHZpZng3d21lcGgya2wzOGZwbnZkdThjODU2dTBiaTF6ZWd4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RVKwlTZmHNg8bU4bct/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
