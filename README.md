@@ -37,5 +37,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frek666&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=frek666&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=frek666&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
