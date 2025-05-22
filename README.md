@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/t.me-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-
+---
 <img src="https://komarev.com/ghpvc/?username=frek666&style=flat-square&color=blue" alt=""/>
 
 <h1>
@@ -18,13 +18,13 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnduazcyYzlhNmFmc2syeHptOGZ5ZTFta2ZtOTEydXdnNDd2eTRleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3Gin2TnIVOE5TiG94/giphy.gif" width="600" height="300"/>
 </div>
-
+---
 ### 	:robot: About Me :
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
-
+---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
