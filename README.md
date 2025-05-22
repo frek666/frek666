@@ -2,11 +2,13 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTM0NDJ0eXB3c213a3NxMG9zNXB0MnIzYmIxZGozdnp4dWg0YW1xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uISzZpAzbQ4nK/giphy.gif" width="300"/>
 </div>
 
+<p align="justify">
 <div id="badges">
   <a href="https://t.me/bootsudoroot">
     <img src="https://img.shields.io/badge/t.me-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=frek666&style=flat-square&color=blue" alt=""/>
 
