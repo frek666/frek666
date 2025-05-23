@@ -22,7 +22,7 @@
 
 ### 	:robot: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: design and code
 
 - :dizzy: Exploring Technical Content Writing.
 
