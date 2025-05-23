@@ -24,7 +24,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :dizzy: Exploring Technical Content Writing.
 
 - :space_invader: Looking for interesting solutions
 ---
