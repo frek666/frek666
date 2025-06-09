@@ -22,7 +22,7 @@
 
 ### 	:robot: About Me :
 
-- :telescope: design and code
+- :telescope: "I am inspired by the fact that art is no longer tied to material — it is now at the intersection of idea and technology"
 
 - :dizzy: Exploring Technical Content Writing.
 
