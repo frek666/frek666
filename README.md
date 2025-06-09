@@ -42,4 +42,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=frek666&theme=dark&background=000000)](https://git.io/streak-stats)
 
-https://github-profile-trophy.vercel.app/?username=frek666ryo-ma&theme=flat
+https://github-profile-trophy.vercel.app/?username=frek666-ma&theme=flat
