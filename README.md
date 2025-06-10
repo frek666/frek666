@@ -23,11 +23,7 @@
 
 ### 	:robot: About Me :
 
-- :telescope: "I am inspired by the fact that art is no longer tied to material — it is now at the intersection of idea and technology"
-
-- :dizzy: Exploring Technical Content Writing.
-
-- :space_invader: Looking for interesting solutions
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=500&color=765898&width=435&lines=development;work;happiness+of+the+work+done)](https://git.io/typing-svg)
 
 ###    Never give up and keep doing
 ---
