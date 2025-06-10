@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&duration=3000&pause=500&color=765898&center=true&width=435&lines=Apsel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=42&duration=3000&pause=500&color=765898&center=true&width=435&lines=Apsel)](https://git.io/typing-svg)
   
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ0aGJpdmpkMG40eno1ejZodXpmc3NrNHJ5eHE3YjBheW1pcjZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf1RA1jNSpbbuDE40m/giphy.gif" width="300"/>
