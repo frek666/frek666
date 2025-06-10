@@ -1,6 +1,6 @@
 <div align="center">
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTM0NDJ0eXB3c213a3NxMG9zNXB0MnIzYmIxZGozdnp4dWg0YW1xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uISzZpAzbQ4nK/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ0aGJpdmpkMG40eno1ejZodXpmc3NrNHJ5eHE3YjBheW1pcjZtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf1RA1jNSpbbuDE40m/giphy.gif" width="300"/>
 </div>
 
 <div id="badges">
@@ -15,10 +15,6 @@
   Hola!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnViemwyM3M0NHN0Mm1pd2JzazV1emRqeTM1aHJyMjNoaGtkc3EwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IzR9o1CxrNYTU1g71p/giphy.gif" width="300" height="300"/>
-</div>
 
 
 ### 	:robot: About Me :
