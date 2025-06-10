@@ -23,9 +23,7 @@
 
 ### 	:robot: About Me :
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=500&color=765898&width=435&lines=development;work;happiness+of+the+work+done)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=500&color=765898&center=true&width=435&lines=development;work;happiness+of+the+work+done)](https://git.io/typing-svg)
 
 ###    Never give up and keep doing
 ---
