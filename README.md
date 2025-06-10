@@ -24,7 +24,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jacquard+12&size=42&duration=3000&pause=500&color=765898&center=true&random=true&width=435&lines=developer;designer;artist;musician;Games;anime)](https://git.io/typing-svg)
 
----
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
