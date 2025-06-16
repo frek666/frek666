@@ -39,7 +39,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frek666&show_icons=true&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=frek666&column=3&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=frek666&column=3&&theme=tokyonight&margin-w=15&margin-h=15)
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=frek666&count_private=true&include_all_commits=true" />
